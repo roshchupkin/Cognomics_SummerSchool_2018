@@ -11,3 +11,8 @@ $ https://github.com/roshchupkin/Cognomics_SummerSchool_2018.git
 $ cd ./Cognomics_SummerSchool_2018/
 $ jupyter-notebook 
 ```
+
+
+# HASE Partial Derivatives 
+
+![PD](https://github.com/roshchupkin/Cognomics_SummerSchool_2018/blob/master/HASE_SupFig1_annotated.png "Partial Derivatives")
