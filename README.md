@@ -7,7 +7,7 @@ Files for practicals download from here (~3GB): [dropbox](https://www.dropbox.co
 ```
 $ source /usr/local/opt/setup_hase.sh
 $ git clone https://github.com/roshchupkin/hase.git 
-$ https://github.com/roshchupkin/Cognomics_SummerSchool_2018.git
+$ git https://github.com/roshchupkin/Cognomics_SummerSchool_2018.git
 $ cd ./Cognomics_SummerSchool_2018/
 $ jupyter-notebook 
 ```
